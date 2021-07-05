@@ -1,4 +1,4 @@
-package pkg
+package gtils
 
 // if error isn't nil,panic error
 func Check(err error) {

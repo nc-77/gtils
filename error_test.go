@@ -1,4 +1,4 @@
-package pkg
+package gtils
 
 import (
 	"testing"
