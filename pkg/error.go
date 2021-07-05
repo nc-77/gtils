@@ -1,4 +1,4 @@
-package gtils
+package pkg
 
 func Check(err error) {
 	if err != nil {
