@@ -5,6 +5,7 @@ import (
 	"net/http"
 )
 
+// gin json response
 func FailResponse(c *gin.Context, code int, err error) {
 	c.JSON(code, gin.H{
 		"code": code,
